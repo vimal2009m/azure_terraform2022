@@ -41,3 +41,8 @@ variable "tag2" {
 variable "env" {
   default = ""
 }
+
+variable "tag3" {
+
+}
+
